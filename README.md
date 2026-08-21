@@ -1,0 +1,4 @@
+🧠 Learning
+💻 Coding
+🐛 Debugging
+🔁 Repeating
