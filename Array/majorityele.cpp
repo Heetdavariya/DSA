@@ -34,8 +34,8 @@ using namespace std;
 // }
 
 // OPTIMAL
-// TC ->
-// SC ->
+// TC -> O(2N) and O(N) if there is majority ele is exists is final.
+// SC -> O(1)
 int majority_ele(vector<int> &arr,int n){
     int cnt=0;
     int el;
